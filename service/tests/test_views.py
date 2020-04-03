@@ -296,4 +296,4 @@ def test_create_and_retrieve_user(client):
     get_response_data = json.loads(get_response.get_data(as_text=True))
     assert get_response_data['name'] == new_user_name
 
-  
+  #Two test are not passing
