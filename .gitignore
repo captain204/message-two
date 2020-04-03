@@ -1,2 +1,2 @@
-service/config.py
-service/test_config.py
+service/config
+service/test_config
